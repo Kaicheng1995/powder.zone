@@ -251,10 +251,10 @@ header {
     border-bottom: 1px solid white;
 }
 
-/*@import url('https://fonts.googleapis.com/css?family=Frijole&display=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Frijole&display=swap');
 
 header .logo {
-    font-family: 'Arial', cursive;
+    font-family: 'Frijole', cursive;
     color: #ffffff;
     font-size: 60px;
     padding: 0px 0px;
@@ -321,7 +321,7 @@ header .log_out_link {
 
 footer .logo {
     text-align: center;
-    font-family: 'Arial', cursive;
+    font-family: 'Frijole', cursive;
     color: #ffffff;
     font-size: 45px;
     padding: 11px 0px;
