@@ -1,7 +1,7 @@
 # Powder🏂🏅
 * *Check it out:* **[powder.zone](https://limitless-beach-89648.herokuapp.com/")**
 * *Coding log:* **`codelog.md`**
-* *Develop setup:* `@node 12.16.1` `@npm 6.14.3`
+* *Develop setup:* `@node 12.16.1` `@npm 6.14.3`...
 
 
 <div align=center>
@@ -13,9 +13,23 @@
 **"No friends on powder days!"** When the snow, especially for **powder** snow, is good to take care of all the needs as a snowboarder, or skier, there would be no time for dealing with friendship stuff.  
   
 As a snowboarding lover, I wrote this web app, and hope to establish a snowboards shopping website in China. Since China is going to host the 2022 Winter Olympic Games, and there isn't any direct sales channel for snowboards in China, I think it should be a good opportunity to start a business with the blooming market.
+
+
 <div align=center>
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="500"> 
 </div>
+
+
+## Development setup
+
+On /client
+```
+npm install @fortawesome/fontawesome@1.1.8 @fortawesome/fontawesome-free-solid@5.0.13 @fortawesome/react-fontawesome@0.0.20 @material-ui/core@1.2.2 axios@0.18.0 react-images@0.5.17 react-redux@5.0.7 react-router-dom@4.3.1 react-slick@0.23.1 redux@4.0.0 redux-promise@0.6.0 redux-thunk@2.3.0 react-dropzone@4.2.12 react-moment@0.7.7 react-paypal-express-checkout@1.0.4 --save
+```
+On /server
+```
+npm install bcrypt@3.0.6 body-parser@1.18.3 cloudinary@1.11.0 concurrently@3.6.0 cookie-parser@1.4.3 dotenv@6.0.0 express@4.16.3 express-formidable@1.0.0 jsonwebtoken@8.3.0 moment@2.22.2 mongoose@5.1.6 multer@1.3.0 --save
+```
 
 
 ## Usage example
@@ -91,14 +105,3 @@ Payment: you can finish buying products with the test paypal account below
 <div align=center>
 <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay1.png" width="800"><img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/pay2.png" width="600"> 
 </div>
-
-## Development setup
-
-On /client
-```
-npm install @fortawesome/fontawesome@1.1.8 @fortawesome/fontawesome-free-solid@5.0.13 @fortawesome/react-fontawesome@0.0.20 @material-ui/core@1.2.2 axios@0.18.0 react-images@0.5.17 react-redux@5.0.7 react-router-dom@4.3.1 react-slick@0.23.1 redux@4.0.0 redux-promise@0.6.0 redux-thunk@2.3.0 react-dropzone@4.2.12 react-moment@0.7.7 react-paypal-express-checkout@1.0.4 --save
-```
-On /server
-```
-npm install bcrypt@3.0.6 body-parser@1.18.3 cloudinary@1.11.0 concurrently@3.6.0 cookie-parser@1.4.3 dotenv@6.0.0 express@4.16.3 express-formidable@1.0.0 jsonwebtoken@8.3.0 moment@2.22.2 mongoose@5.1.6 multer@1.3.0 --save
-```
