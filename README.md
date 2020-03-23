@@ -1,6 +1,7 @@
 # Powder
-> check it out: [powder.zone](https://limitless-beach-89648.herokuapp.com/")  
-> coding process: [codelog.md](https://github.com/Kaicheng1995/powder.zone/blob/master/codelog.md") 
+> Check it out: [powder.zone](https://limitless-beach-89648.herokuapp.com/")  
+> Coding process: see `codelog.md`
+
 <div align=center>
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/captured (1).gif" width="600"> 
 </div>
