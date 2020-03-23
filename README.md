@@ -1,6 +1,6 @@
 # Powder
-* Check it out: [powder.zone](https://limitless-beach-89648.herokuapp.com/")  
-* Coding process: **`codelog.md`**
+* *Check it out:* **[powder.zone](https://limitless-beach-89648.herokuapp.com/")**
+* *Coding log:* **`codelog.md`**
 
 
 <div align=center>
