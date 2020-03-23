@@ -1,8 +1,10 @@
 # Powder🏂🏅
 * *Check it out:* **[powder.zone](https://limitless-beach-89648.herokuapp.com/")**
 * *Coding log:* **`codelog.md`**
-* *Develop setup:* `@node 12.16.1` `@npm 6.14.3` `creat-react-app` `MongoDB`...
-
+* *Develop setup:* `@node 12.16.1` `@npm 6.14.3`
+* *Database* `MongoDB`
+* *JS library* `React.js`
+* *Deployment* `Heroku`
 
 <div align=center>
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/captured (1).gif" width="700"> 
