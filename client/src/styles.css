@@ -407,6 +407,10 @@ footer .business_nfo .nfo {
     box-sizing: border-box;
 }
 
+.home_promotion_img {
+    display: flex;
+    height: 100vh;
+}
 
 .home_promotion .tag {
     background: #82828287;
