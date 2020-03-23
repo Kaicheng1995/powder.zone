@@ -1,5 +1,6 @@
 # Powder
 > check it out: [www.powder.zone](https://limitless-beach-89648.herokuapp.com/)
+> check it out: [www.powder.zone](https://powder.zone/)
 
 
 **"No friends on powder days!"** When the snow, especially for **powder** snow, is good to take care of all the needs as a snowboarder, or skier, there would be no time for dealing with friendship stuff.  
