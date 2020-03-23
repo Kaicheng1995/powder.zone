@@ -142,3 +142,5 @@ server.js : create server
 7/ History
 ```
 
+## Deploy
+**`Heroku`**
