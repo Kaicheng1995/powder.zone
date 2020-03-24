@@ -1,6 +1,5 @@
 # Powder🏂🏅☃️
 * *Check it out:* **[powder.zone](http://www.powder.zone)** or **[herokuapp](https://limitless-beach-89648.herokuapp.com/)**
-* *Coding log:* **`codelog.md`**
 * *Develop setup:* `@node 12.16.1` `@npm 6.14.3`
 * *Database* `MongoDB`
 * *JS library* `React.js` `Node.js`...
@@ -10,6 +9,11 @@
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/captured (1).gif" width="700"> 
 </div>
 
+## Content
+* Background
+* Development setup
+* Usage example
+* Code log
 
 ## Background
 **"No friends on powder days!"** ⛄️☀️⛄️  
