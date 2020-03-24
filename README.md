@@ -1,5 +1,5 @@
 # Powder🏂🏅☃️
-* *Check it out:* **[powder.zone](https://limitless-beach-89648.herokuapp.com/)** or **[www.powder.zone](http://www.powder.zone)**
+* *Check it out:* **[powder.zone](http://www.powder.zone)** or **[herokuapp](https://limitless-beach-89648.herokuapp.com/)**
 * *Coding log:* **`codelog.md`**
 * *Develop setup:* `@node 12.16.1` `@npm 6.14.3`
 * *Database* `MongoDB`
