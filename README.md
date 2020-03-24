@@ -11,8 +11,8 @@ As a snowboarding lover, I wrote this web app, and hope to establish a snowboard
   <img src="https://github.com/Kaicheng1995/powder.zone/blob/master/img/friends-powder-days_h_0.jpg" width="500"> 
 </div>
 
-* *Check it out:* **[powder.zone](http://www.powder.zone)** or **[herokuapp](https://limitless-beach-89648.herokuapp.com/)**
-* *Develop setup:* `@node 12.16.1` `@npm 6.14.3`
+> *Check it out:* **[powder.zone](http://www.powder.zone)** or **[herokuapp](https://limitless-beach-89648.herokuapp.com/)**
+> *Develop setup:* `@node 12.16.1` `@npm 6.14.3`
 * *Database* `MongoDB`
 * *JS library* `React.js` `Node.js`...
 * *Deployment* `Heroku`
