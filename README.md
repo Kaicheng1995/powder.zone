@@ -1,9 +1,8 @@
 # Powder🏂🏅☃️
 
 ```diff
-! ATTENTION：If it's too slow to load the page, please just watch the Youtube video!
+! ATTENTION：The page turned out to load somewhat slowly, please feel free to watch the Youtube video!!
 ```
-
 
 * *YouTube Video* https://www.youtube.com/watch?v=wZtKdY0-JHI&t=15s
 * *Check it out:* *[powder.zone](http://www.powder.zone)* or *[herokuapp](https://limitless-beach-89648.herokuapp.com/)*
